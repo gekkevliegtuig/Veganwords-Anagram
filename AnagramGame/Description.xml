@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<head> Description
+</head>
+
+<root>
+    
+</root>
+<body>
+
+    <h1> Welcome to the VeganAnagram Game, increase your plantbased food vocalbalary</h1>
+    
+    <div>
+    <p> This game is easy, it runs in Java and the source code is open under GNU GPL v3 License.
+        We want you to enjoy this game and it run it on any device you want. Play this with your friends, your kids or students </p>
+        <p>
+          This project was started by Joeri Jungschlager.   
+        </p>
+    </div>
+</body>
